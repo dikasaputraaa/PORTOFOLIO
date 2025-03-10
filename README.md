@@ -1,7 +1,7 @@
 ![WhatsApp Image 2025-03-09 at 20 37 09](https://github.com/user-attachments/assets/771481ae-fe7e-451e-b3ee-60499667fe6b)# 🚀 Portfolio - [Nama Kamu]
 
 ## 🏅 Tentang Saya  
-Saya adalah seorang profesional IT dengan pengalaman sebagai **Junior Programmer, IT Support, dan Data Analyst**. Saya memiliki keahlian dalam pengembangan aplikasi web menggunakan **PHP (CodeIgniter)**, serta pengalaman dalam **manajemen database ( Oracle, MySQL)**. Saya juga berpengalaman dalam **troubleshooting IT dan analisis data menggunakan SQL dan Power BI**. Saya selalu ingin belajar dan berkontribusi dalam tim yang inovatif.
+Saya adalah seorang profesional IT dengan pengalaman sebagai **Junior Programmer, IT Support, dan Data Analyst**. Saya memiliki keahlian dalam pengembangan aplikasi web menggunakan **PHP (CodeIgniter)**, serta pengalaman dalam **manajemen database ( Oracle, MySQL)**. Saya juga berpengalaman dalam **troubleshooting IT dan analisis data menggunakan SQL**. Saya selalu ingin belajar dan berkontribusi dalam tim yang inovatif.
 
 ## 📂 Pengalaman & Proyek  
 
